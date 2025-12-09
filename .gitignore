@@ -3,5 +3,4 @@
 __pycache__/
 *.pem
 *.ppk
-*.csv
 .env
